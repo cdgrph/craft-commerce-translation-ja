@@ -10,7 +10,7 @@ return [
     'Abbreviation' => 'Abbreviation',
     'Actions' => 'Actions',
     'Active Carts' => 'Active Carts',
-    'Add a product' => 'Add a product',
+    'Add a product' => '商品の追加',
     'Add a variant' => 'Add a variant',
     'Add variant above' => 'Add variant above',
     'Address 1' => 'Address 1',
